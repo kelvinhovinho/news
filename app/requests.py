@@ -1,5 +1,5 @@
 
-from .models import News, Articles
+from .model import News, Articles
 import requests
  
  
