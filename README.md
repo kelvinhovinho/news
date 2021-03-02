@@ -42,7 +42,7 @@ A computer running on either Windows, MacOS or Ubuntu operating system installed
 - python3.6 manage.py server
 - Run chmod +x start.sh follwoed by ./start.sh while in the project folder to start the project.
 - Once started, the project can be accessed on your localhost using the address: localhost:5000.
-- Alternatively the application can be accessed by visiting 
+- Alternatively the application can be accessed by visiting https://git.heroku.com/news-kelvin.git
 
 ## Technologies Used
 - Python v3.6
